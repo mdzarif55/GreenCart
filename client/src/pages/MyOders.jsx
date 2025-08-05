@@ -2,7 +2,8 @@ import React from 'react'
 
 const MyOders = () => {
   return (
-    <div>MyOders</div>
+    <div><p>
+        </p>My Orde</div>
   )
 }
 
