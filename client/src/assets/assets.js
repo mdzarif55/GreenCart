@@ -253,7 +253,7 @@ export const dummyProducts = [
   },
   {
     _id: "gd49g56h",
-    name: "Spinach 500g",
+    name: "Spinach ",
     category: "Vegetables",
     price: 18,
     offerPrice: 15,
